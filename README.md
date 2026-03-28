@@ -1,27 +1,27 @@
-# 💫 About Me:
-# Hi there, I'm Aaryan 👋<br><br>🎓 Student | Aspiring Developer  <br>💻 Learning: HTML, CSS, JavaScript, React, Git  <br>🛠️ Building: Beginner projects & web apps  <br>🌱 Exploring: Web Development, Databases, Networking  <br>🚀 Always learning and improving one project at a time  
+# Hi, I'm Aaryan Suwal 👋
 
+A student developer from Nepal 🇳🇵 passionate about building real-world projects.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-suwal-15665a314/) 
+## 🔗 Links
+- 🌐 Portfolio: [aaryansuwal.com.np](https://www.aaryansuwal.com.np)
+- 🚀 Project Hub: [projects.aaryansuwal.com.np](https://projects.aaryansuwal.com.np)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AaryanSuwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AaryanSuwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanSuwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aaryan_suwal/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/aaryansuwal021)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-suwal-15665a314/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaryansuwal1@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AaryanSuwal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AaryanSuwal&theme=dark)](https://git.io/streak-stats)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AaryanSuwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AaryanSuwal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+Check out all my projects at [projects.aaryansuwal.com.np](https://projects.aaryansuwal.com.np)
